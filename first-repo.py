@@ -1,2 +1,3 @@
-# HELLO THERE! This is my first repository on github.com 
-        print("Hello there I am typing this on python ")
+# Hello there! I am currently learning how to use Github so I hope this works. 
+
+    print("Hello world! I am using python to write this.")
